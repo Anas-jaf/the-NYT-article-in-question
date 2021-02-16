@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    font-size: 1.25rem;
+    line-height: 1.875;
+}
+
+p{
+    font-family: nyt-imperial, georgia, "times new roman", times, serif;
+    font-size: 20px;
+
+}
+
+img{
+    width:100%;
+}
+
+css-1fbzgn7{
+    flex-direction: row;
+}
+
+
+
+
+/* stylesheet.css | http://127.0.0.1:5500/stylesheet.css?_cacheOverride=1613489324712 */
+
+
+  
+  /* Element | http://127.0.0.1:5500/articlePage.html */
+  
+
+
+  ul li {
+    display: inline-block;
+    display: inline-block;
+    padding: 5px;
+  }
+  
+.title{
+    font-family: "nyt-cheltenham"; 
+    src: url("/fonts/family/cheltenham/cheltenham-italic-700.f99a0459024509f157a3352e5de4f873.woff2") format("woff2"), url("/fonts/family/cheltenham/cheltenham-italic-700.d53eaf3b784c4b50d1c331e1278cda67.woff") format("woff"), url("/fonts/family/cheltenham/cheltenham-italic-700.c690b74328fddd7feff3bc4c1c1a0cd8.ttf") format("truetype"); 
+    font-style: italic; 
+    font-weight: 700; 
+    font-display: swap;  
+}
