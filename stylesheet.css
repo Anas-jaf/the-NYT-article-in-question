@@ -1,13 +1,10 @@
 a:link,
 a:visited {
-
   color: #666;
-
   text-align: center;
   text-decoration: none;
   display: inline-block;
 }
-
 a:hover,
 a:active {
   text-decoration: underline;
@@ -16,14 +13,10 @@ a:active {
   text-decoration-color: currentcolor;
   text-decoration-thickness: auto;
 }
-
-
-
 .footer {
   display: inline-flex;
   width: 100%;
 }
-
 .content {
   text-align: left;
   margin-left: auto;
@@ -32,60 +25,42 @@ a:active {
   line-height: 1.875;
   width: 60%;
 }
-
 /* ________________________________________________________ */
-
-
 .header {
   display: flex;
   flex-direction: row;
   width: 100%;
-
 }
-
 #nav-left {
   display: flex;
   flex-direction: row;
   width: 70px;
   flex-grow: 0;
 }
-
-
 #nav-center {
-
   display: flex;
   flex-direction: row;
   width: 500px;
   flex-grow: 0;
 }
-
-
 #nav-right {
   display: flex;
   flex-direction: row;
   width: 400px;
   flex-grow: 0;
   justify-content: flex-end;
-
 }
-
-
 /* Element | http://127.0.0.1:5501/articlePage.html */
-
 #nav-center {
   padding-right: -6px;
 }
-
 /* Element | http://127.0.0.1:5501/articlePage.html */
-
 #nav-left>img:nth-child(1) {
   margin-left: 4px;
   padding-right: 7px;
   margin-right: 6px;
 }
-
 /* Element | http://127.0.0.1:5501/articlePage.html */
-
 #nav-center>svg:nth-child(2) {
   border-right-width: 0px;
   border-right-style: solid;
@@ -97,9 +72,7 @@ a:active {
   padding-left: 248px;
   margin-left: 0px;
 }
-
 /* Element | http://127.0.0.1:5501/articlePage.html */
-
 #nav-right>button:nth-child(2) {
   padding-left: 9px;
   height: 40;
@@ -117,21 +90,15 @@ a:active {
   border-left-style: solid;
   margin-right: 16px;
 }
-
 /* Element | http://127.0.0.1:5501/articlePage.html */
-
 #nav-left {
   padding-right: 52px;
 }
-
 /* Element | http://127.0.0.1:5501/articlePage.html */
-
 #nav-left>img:nth-child(2) {
   padding-left: 20px;
 }
-
 /* Element | http://127.0.0.1:5501/articlePage.html */
-
 #nav-center>span:nth-child(1) {
   height: 30.817px;
   width: 333.383px;
@@ -139,23 +106,17 @@ a:active {
   font-family: nyt-franklin, helvetica, arial, sans-serif;
   font-weight: bold;
 }
-
 /* Element | http://127.0.0.1:5501/articlePage.html */
-
 #nav-right {
   padding-left: 436px;
 }
-
 /* Element | http://127.0.0.1:5501/articlePage.html */
-
 .header {
   border-bottom-width: 3px;
   border-bottom-style: solid;
   padding-bottom: 8px;
 }
-
 /* Element | http://127.0.0.1:5501/articlePage.html */
-
 #nav-right>button:nth-child(1) {
   padding-right: 5px;
   margin-right: 44px;
@@ -173,33 +134,23 @@ a:active {
   border-left-width: 0px;
   border-left-style: solid;
 }
-
 /* ------------------------------------------------------ */
-
-
-
 .icons {
-
   width: 4%;
   float: left;
   margin-left: 20px;
   margin-bottom: 20px;
 }
-
 p {
   font-family: nyt-imperial, georgia, "times new roman", times, serif;
   font-size: 20px;
-
 }
-
 img {
   width: 100%;
 }
-
 css-1fbzgn7 {
   flex-direction: row;
 }
-
 .content>ul:nth-child(2)>img:nth-child(27) {
   width: 120%;
   padding-right: 0px;
@@ -208,32 +159,22 @@ css-1fbzgn7 {
   margin-left: -65px;
   padding-left: 0px;
 }
-
-
-
 ul li {
   display: inline-block;
   display: inline-block;
   padding: 5px;
 }
-
 .title {
   font-family: "georgia";
   font-weight: lighter;
   font-style: italic;
 }
-
 .copyright-box {
-
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
 }
-
-
-
 /* Element | http://127.0.0.1:5501/articlePage.html */
-
 .copyright-box>ul:nth-child(1) {
   flex-wrap: nowrap;
   flex-direction: row;
@@ -246,23 +187,16 @@ ul li {
   margin-left: auto;
   margin-right: auto;
 }
-
-
 /* Element | http://127.0.0.1:5501/articlePage.html */
-
 .footer>footer:nth-child(1) {
   margin-left: auto;
   margin-right: auto;
 }
-
 /* Element | http://127.0.0.1:5501/articlePage.html */
-
 .copyright-box {
   border-top-width: 1px;
   border-top-style: solid;
 }
-
-
 .grid-item {
   background-color: rgba(255, 255, 255, 0.8);
   border: 1px solid rgba(0, 0, 0, 0.8);
@@ -270,116 +204,73 @@ ul li {
   font-size: 30px;
   text-align: center;
 }
-
-
 .css-r5ic95 {
   height: 50px;
   width: 50px;
 }
-
 .css-1gprdgz {
   display: grid;
 }
-
 .css-1iruc8t {
   display: grid;
 }
-
-
 /* Inline #1 | http://127.0.0.1:5501/articlePage.html */
-
-
-
 .nav-text {
   display: grid;
   grid-template-columns: auto auto auto auto auto;
 }
-
 .css-g4gku8 {
   display: grid;
   grid-template-columns: auto auto auto auto auto auto;
 }
-
-
 /* Inline #1 | http://127.0.0.1:5501/articlePage.html */
-
 .nav-bar {
   display: grid;
   grid-template-columns: auto auto auto auto auto;
 }
-
-
-
 /* Inline #1 | http://127.0.0.1:5501/articlePage.html */
-
 .two-grids {
   display: grid;
   grid-template-columns: auto auto;
 }
-
 .css-oylsik {
   width: 500px;
 }
-
-
 /* Inline #1 | http://127.0.0.1:5501/articlePage.html */
-
 .css-124yz3h {
   width: 82px;
 }
-
 .css-12t2l5p {
   width: 400px;
 }
-
-
-
 /* Inline #1 | http://127.0.0.1:5501/articlePage.html */
-
 .articles {
   margin-left: auto;
   margin-right: auto;
 }
-
-
-
 /* Inline #1 | http://127.0.0.1:5501/articlePage.html */
-
 .articles {
   margin-left: auto;
   margin-right: auto;
 }
-
-
-
 .css-1y4vkv1 {
   display: grid;
   grid-template-columns: auto auto auto;
 }
-
 .css-vy7nt4 {
   display: grid;
   grid-template-columns: auto auto auto;
 }
-
 .css-xscrdc {
   display: grid;
   grid-template-columns: auto auto;
 }
-
 /* Element | http://127.0.0.1:5501/articlePage.html */
-
 .css-xscrdc {
   border-bottom-width: 1px;
   border-bottom-style: solid;
 }
-
-
-
 /* Inline #1 | http://127.0.0.1:5501/articlePage.html */
-
-
-
 .css-6td9kr {
   display: grid;
 }
