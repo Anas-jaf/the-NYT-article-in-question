@@ -1,71 +1,71 @@
 a:link,
 a:visited {
 
-    color: #666;
+  color: #666;
 
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
 }
 
 a:hover,
 a:active {
-    text-decoration: underline;
-    text-decoration-line: underline;
-    text-decoration-style: solid;
-    text-decoration-color: currentcolor;
-    text-decoration-thickness: auto;
+  text-decoration: underline;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-color: currentcolor;
+  text-decoration-thickness: auto;
 }
 
 
 
 .footer {
-    display: inline-flex;
-    width: 100%;
+  display: inline-flex;
+  width: 100%;
 }
 
 .content {
-    text-align: left;
-    margin-left: auto;
-    margin-right: auto;
-    font-size: 1.25rem;
-    line-height: 1.875;
-    width: 60%;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1.25rem;
+  line-height: 1.875;
+  width: 60%;
 }
 
 /* ________________________________________________________ */
 
 
 .header {
-    display: flex;
-    flex-direction: row;
-    width: 100%;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
 
 }
 
 #nav-left {
-    display: flex;
-    flex-direction: row;
-    width: 70px;
-    flex-grow: 0;
+  display: flex;
+  flex-direction: row;
+  width: 70px;
+  flex-grow: 0;
 }
 
 
 #nav-center {
 
-    display: flex;
-    flex-direction: row;
-    width: 500px;
-    flex-grow: 0;
+  display: flex;
+  flex-direction: row;
+  width: 500px;
+  flex-grow: 0;
 }
 
 
 #nav-right {
-    display: flex;
-    flex-direction: row;
-    width: 400px;
-    flex-grow: 0;
-    justify-content: flex-end;
+  display: flex;
+  flex-direction: row;
+  width: 400px;
+  flex-grow: 0;
+  justify-content: flex-end;
 
 }
 
@@ -73,105 +73,105 @@ a:active {
 /* Element | http://127.0.0.1:5501/articlePage.html */
 
 #nav-center {
-    padding-right: -6px;
+  padding-right: -6px;
 }
 
 /* Element | http://127.0.0.1:5501/articlePage.html */
 
 #nav-left>img:nth-child(1) {
-    margin-left: 4px;
-    padding-right: 7px;
-    margin-right: 6px;
+  margin-left: 4px;
+  padding-right: 7px;
+  margin-right: 6px;
 }
 
 /* Element | http://127.0.0.1:5501/articlePage.html */
 
 #nav-center>svg:nth-child(2) {
-    border-right-width: 0px;
-    border-right-style: solid;
-    margin-right: -200px;
-    height: 52.817px;
-    width: 377.733px;
-    justify-content: center;
-    align-items: center;
-    padding-left: 248px;
-    margin-left: 0px;
+  border-right-width: 0px;
+  border-right-style: solid;
+  margin-right: -200px;
+  height: 52.817px;
+  width: 377.733px;
+  justify-content: center;
+  align-items: center;
+  padding-left: 248px;
+  margin-left: 0px;
 }
 
 /* Element | http://127.0.0.1:5501/articlePage.html */
 
 #nav-right>button:nth-child(2) {
-    padding-left: 9px;
-    height: 40;
-    margin-top: 7px;
-    background: #567b95;
-    font-weight: bold;
-    color: white;
-    border-top-width: 0px;
-    border-top-style: solid;
-    border-right-width: 0px;
-    border-right-style: solid;
-    border-bottom-width: 0px;
-    border-bottom-style: solid;
-    border-left-width: 0px;
-    border-left-style: solid;
-    margin-right: 16px;
+  padding-left: 9px;
+  height: 40;
+  margin-top: 7px;
+  background: #567b95;
+  font-weight: bold;
+  color: white;
+  border-top-width: 0px;
+  border-top-style: solid;
+  border-right-width: 0px;
+  border-right-style: solid;
+  border-bottom-width: 0px;
+  border-bottom-style: solid;
+  border-left-width: 0px;
+  border-left-style: solid;
+  margin-right: 16px;
 }
 
 /* Element | http://127.0.0.1:5501/articlePage.html */
 
 #nav-left {
-    padding-right: 52px;
+  padding-right: 52px;
 }
 
 /* Element | http://127.0.0.1:5501/articlePage.html */
 
 #nav-left>img:nth-child(2) {
-    padding-left: 20px;
+  padding-left: 20px;
 }
 
 /* Element | http://127.0.0.1:5501/articlePage.html */
 
 #nav-center>span:nth-child(1) {
-    height: 30.817px;
-    width: 333.383px;
-    margin-top: 15px;
-    font-family: nyt-franklin, helvetica, arial, sans-serif;
-    font-weight: bold;
+  height: 30.817px;
+  width: 333.383px;
+  margin-top: 15px;
+  font-family: nyt-franklin, helvetica, arial, sans-serif;
+  font-weight: bold;
 }
 
 /* Element | http://127.0.0.1:5501/articlePage.html */
 
 #nav-right {
-    padding-left: 436px;
+  padding-left: 436px;
 }
 
 /* Element | http://127.0.0.1:5501/articlePage.html */
 
 .header {
-    border-bottom-width: 3px;
-    border-bottom-style: solid;
-    padding-bottom: 8px;
+  border-bottom-width: 3px;
+  border-bottom-style: solid;
+  padding-bottom: 8px;
 }
 
 /* Element | http://127.0.0.1:5501/articlePage.html */
 
 #nav-right>button:nth-child(1) {
-    padding-right: 5px;
-    margin-right: 44px;
-    height: 40;
-    margin-top: 7px;
-    background: #567b95;
-    font-weight: bold;
-    color: white;
-    border-bottom-width: 0px;
-    border-bottom-style: solid;
-    border-right-width: 0px;
-    border-right-style: solid;
-    border-top-width: 0px;
-    border-top-style: solid;
-    border-left-width: 0px;
-    border-left-style: solid;
+  padding-right: 5px;
+  margin-right: 44px;
+  height: 40;
+  margin-top: 7px;
+  background: #567b95;
+  font-weight: bold;
+  color: white;
+  border-bottom-width: 0px;
+  border-bottom-style: solid;
+  border-right-width: 0px;
+  border-right-style: solid;
+  border-top-width: 0px;
+  border-top-style: solid;
+  border-left-width: 0px;
+  border-left-style: solid;
 }
 
 /* ------------------------------------------------------ */
@@ -180,54 +180,54 @@ a:active {
 
 .icons {
 
-    width: 4%;
-    float: left;
-    margin-left: 20px;
-    margin-bottom: 20px;
+  width: 4%;
+  float: left;
+  margin-left: 20px;
+  margin-bottom: 20px;
 }
 
 p {
-    font-family: nyt-imperial, georgia, "times new roman", times, serif;
-    font-size: 20px;
+  font-family: nyt-imperial, georgia, "times new roman", times, serif;
+  font-size: 20px;
 
 }
 
 img {
-    width: 100%;
+  width: 100%;
 }
 
 css-1fbzgn7 {
-    flex-direction: row;
+  flex-direction: row;
 }
 
 .content>ul:nth-child(2)>img:nth-child(27) {
-    width: 120%;
-    padding-right: 0px;
-    margin-right: 0px;
-    height: 579.95px;
-    margin-left: -65px;
-    padding-left: 0px;
+  width: 120%;
+  padding-right: 0px;
+  margin-right: 0px;
+  height: 579.95px;
+  margin-left: -65px;
+  padding-left: 0px;
 }
 
 
 
 ul li {
-    display: inline-block;
-    display: inline-block;
-    padding: 5px;
+  display: inline-block;
+  display: inline-block;
+  padding: 5px;
 }
 
 .title {
-    font-family: "georgia";
-    font-weight: lighter;
-    font-style: italic;
+  font-family: "georgia";
+  font-weight: lighter;
+  font-style: italic;
 }
 
 .copyright-box {
 
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
 }
 
 
@@ -235,54 +235,54 @@ ul li {
 /* Element | http://127.0.0.1:5501/articlePage.html */
 
 .copyright-box>ul:nth-child(1) {
-    flex-wrap: nowrap;
-    flex-direction: row;
-    display: flex;
-    font-size: 12px;
-    padding-left: 0px;
-    padding-top: 0px;
-    border-top-width: 0px;
-    border-top-style: solid;
-    margin-left: auto;
-    margin-right: auto;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  display: flex;
+  font-size: 12px;
+  padding-left: 0px;
+  padding-top: 0px;
+  border-top-width: 0px;
+  border-top-style: solid;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
 /* Element | http://127.0.0.1:5501/articlePage.html */
 
 .footer>footer:nth-child(1) {
-    margin-left: auto;
-    margin-right: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* Element | http://127.0.0.1:5501/articlePage.html */
 
 .copyright-box {
-    border-top-width: 1px;
-    border-top-style: solid;
+  border-top-width: 1px;
+  border-top-style: solid;
 }
 
 
 .grid-item {
-    background-color: rgba(255, 255, 255, 0.8);
-    border: 1px solid rgba(0, 0, 0, 0.8);
-    padding: 20px;
-    font-size: 30px;
-    text-align: center;
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
 }
 
 
 .css-r5ic95 {
-    height: 50px;
-    width: 50px;
+  height: 50px;
+  width: 50px;
 }
 
 .css-1gprdgz {
-    display: grid;
+  display: grid;
 }
 
 .css-1iruc8t {
-    display: grid;
+  display: grid;
 }
 
 
@@ -291,21 +291,21 @@ ul li {
 
 
 .nav-text {
-    display: grid;
-    grid-template-columns: auto auto auto auto auto;
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
 }
 
 .css-g4gku8 {
-    display: grid;
-    grid-template-columns: auto auto auto auto auto auto;
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto;
 }
 
 
 /* Inline #1 | http://127.0.0.1:5501/articlePage.html */
 
 .nav-bar {
-    display: grid;
-    grid-template-columns: auto auto auto auto auto;
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
 }
 
 
@@ -313,23 +313,23 @@ ul li {
 /* Inline #1 | http://127.0.0.1:5501/articlePage.html */
 
 .two-grids {
-    display: grid;
-    grid-template-columns: auto auto;
+  display: grid;
+  grid-template-columns: auto auto;
 }
 
 .css-oylsik {
-    width: 500px;
+  width: 500px;
 }
 
 
 /* Inline #1 | http://127.0.0.1:5501/articlePage.html */
 
 .css-124yz3h {
-    width: 82px;
+  width: 82px;
 }
 
 .css-12t2l5p {
-    width: 400px;
+  width: 400px;
 }
 
 
@@ -337,8 +337,8 @@ ul li {
 /* Inline #1 | http://127.0.0.1:5501/articlePage.html */
 
 .articles {
-    margin-left: auto;
-    margin-right: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
@@ -346,32 +346,32 @@ ul li {
 /* Inline #1 | http://127.0.0.1:5501/articlePage.html */
 
 .articles {
-    margin-left: auto;
-    margin-right: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
 
 .css-1y4vkv1 {
-    display: grid;
-    grid-template-columns: auto auto auto;
+  display: grid;
+  grid-template-columns: auto auto auto;
 }
 
 .css-vy7nt4 {
-    display: grid;
-    grid-template-columns: auto auto auto;
+  display: grid;
+  grid-template-columns: auto auto auto;
 }
 
 .css-xscrdc {
-    display: grid;
-    grid-template-columns: auto auto;
+  display: grid;
+  grid-template-columns: auto auto;
 }
 
 /* Element | http://127.0.0.1:5501/articlePage.html */
 
 .css-xscrdc {
-    border-bottom-width: 1px;
-    border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
 }
 
 
@@ -381,5 +381,5 @@ ul li {
 
 
 .css-6td9kr {
-    display: grid;
+  display: grid;
 }
